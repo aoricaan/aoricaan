@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aoricaan
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoricaan&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoricaan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
